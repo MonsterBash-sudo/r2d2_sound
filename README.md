@@ -6,7 +6,7 @@ Description:
 
 Uses random frequencies to generate R2D2-style messages with random length, then saves generated sound message to output *.wav file and plays it.
 
-To play wav file uses sound-playing interface for Windows (module winsound).
+To play wav file uses sound-playing interface for Windows (module winsound) or Linux (module playsound).
 
 License:
 --------
